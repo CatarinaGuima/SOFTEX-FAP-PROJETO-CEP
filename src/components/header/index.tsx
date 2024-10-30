@@ -3,7 +3,7 @@ import Link from "next/link";
 export function NavBar() {
   return (
     <header className="border-b border-black py-6">
-      <nav className="flex justify-center">
+      <nav className="hidden md:block">
         <ul className="flex gap-8">
           <li>
             <Link href="/">Home</Link>
@@ -16,6 +16,7 @@ export function NavBar() {
           </li>
         </ul>
       </nav>
+      <span className="md:hidden">MENU</span>
       <hr className="text-white mt-2 w-80" />
     </header>
   );
