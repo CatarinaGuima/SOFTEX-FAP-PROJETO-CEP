@@ -2,9 +2,9 @@ import Link from "next/link";
 
 export function NavBar() {
   return (
-    <header className="border-b border-black py-6">
+    <header className=" border-b border-black py-6">
       <nav className="hidden md:block">
-        <ul className="flex gap-8">
+        <ul className="flex justify-center items-center gap-8">
           <li>
             <Link href="/">Home</Link>
           </li>
@@ -17,7 +17,9 @@ export function NavBar() {
         </ul>
       </nav>
       <span className="md:hidden">MENU</span>
-      <hr className="text-white mt-2 w-80" />
+      <div className="flex justify-center items-center">
+        <hr className="text-white mt-2 w-1/4" />
+      </div>
     </header>
   );
 }
