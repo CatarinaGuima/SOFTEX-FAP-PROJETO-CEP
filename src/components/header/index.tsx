@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export function NavBar() {
   return (
-    <header className=" border-b border-black py-6">
+    <header className="bg-black text-white border-b py-6">
       <nav className="hidden md:block">
         <ul className="flex justify-center items-center gap-8">
           <li>
