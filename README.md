@@ -9,7 +9,7 @@ Este projeto tem como objetivo permitir a consulta de informações de endereço
 
 ### Links
 
-- Live Site URL: [clique aqui](https://mytodoada.netlify.app/)
+- Live Site URL: [clique aqui](https://info-cep.netlify.app/)
 
 ## 🚀 Tecnologias
 
