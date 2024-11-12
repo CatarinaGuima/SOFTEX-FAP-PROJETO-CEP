@@ -1,4 +1,5 @@
 # Sistema de Consulta de Endereço por CEP
+[![Netlify Status](https://api.netlify.com/api/v1/badges/76e425d0-4693-4c96-a442-5b2555e4c648/deploy-status)](https://app.netlify.com/sites/infocep/deploys)
 
 Este projeto tem como objetivo permitir a consulta de informações de endereço por meio de um CEP. A busca é realizada através de uma API, que retorna detalhes como rua, bairro, cidade, estado, entre outros. O usuário pode inserir o CEP na interface intuitiva e visualizar os detalhes de forma organizada e imediata.
 
