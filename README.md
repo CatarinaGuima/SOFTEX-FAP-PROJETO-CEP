@@ -5,7 +5,7 @@ Este projeto tem como objetivo permitir a consulta de informações de endereço
 
 ## Screenshot do Projeto
 
-![Screenshot](https://github.com/user-attachments/assets/d2df347d-f351-42c0-a1eb-22c5c8ec4bfd)
+![image](https://github.com/user-attachments/assets/b6a9ea93-799a-4289-b466-4c71808d15d4)
 
 ### Links
 
