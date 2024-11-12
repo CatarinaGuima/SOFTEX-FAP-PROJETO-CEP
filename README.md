@@ -22,6 +22,7 @@ Este projeto foi desenvolvido para portfólio com as seguintes tecnologias:
 - **React** / **Next.js**: Frameworks utilizados para o desenvolvimento da interface e da aplicação web.
 - **Tailwind CSS**: Framework de CSS para estilização responsiva e customizada.
 - **Node Modules**: Pacotes e dependências para facilitar o desenvolvimento, incluindo bibliotecas necessárias para o funcionamento da aplicação.
+- - **Framer Motion**: Biblioteca para animações fluidas e interações.
 - [vs code](https://code.visualstudio.com/download)
 
 ## Requisitos
